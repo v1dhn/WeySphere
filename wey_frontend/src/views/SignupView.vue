@@ -8,7 +8,7 @@
                             Lorem ipsum dolor sit mate. Lorem ipsum dolor sit mate. Lorem ipsum dolor sit mate.
                 </p>
                 <p class="font-bold">
-                            Already have an account? <a href="#" class="underline">Click here</a> to log in!
+                            Already have an account? <RouterLink :to="{'name':'login'}" class="underline">Click here</RouterLink> to log in!
                         </p>
             </div>
         </div>
