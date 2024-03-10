@@ -116,7 +116,7 @@
                                 <div class="flex items-center space-x-2">
                                     <img src="https://i.pravatar.cc/300?img=70" class="w-[40px] rounded-full">
                                     
-                                    <p class="text-xs"><strong>Code With Stein</strong></p>
+                                    <p class="text-xs"><strong>Vidhan</strong></p>
                                 </div>
 
                                 <a href="#" class="py-2 px-3 bg-purple-600 text-white text-xs rounded-lg">Show</a>
@@ -126,7 +126,7 @@
                                 <div class="flex items-center space-x-2">
                                     <img src="https://i.pravatar.cc/300?img=70" class="w-[40px] rounded-full">
                                     
-                                    <p class="text-xs"><strong>Code With Stein</strong></p>
+                                    <p class="text-xs"><strong>Vidhan</strong></p>
                                 </div>
 
                                 <a href="#" class="py-2 px-3 bg-purple-600 text-white text-xs rounded-lg">Show</a>
@@ -136,7 +136,7 @@
                                 <div class="flex items-center space-x-2">
                                     <img src="https://i.pravatar.cc/300?img=70" class="w-[40px] rounded-full">
                                     
-                                    <p class="text-xs"><strong>Code With Stein</strong></p>
+                                    <p class="text-xs"><strong>Vidhan</strong></p>
                                 </div>
 
                                 <a href="#" class="py-2 px-3 bg-purple-600 text-white text-xs rounded-lg">Show</a>
@@ -151,7 +151,7 @@
                             <div class="flex items-center justify-between">
                                 <div class="flex items-center space-x-2">
                                     <p class="text-xs">
-                                        <strong>#codewithstein</strong><br>
+                                        <strong>#vidhanpandey</strong><br>
                                         <span class="text-gray-500">180 posts</span>
                                     </p>
                                 </div>
@@ -162,7 +162,7 @@
                             <div class="flex items-center justify-between">
                                 <div class="flex items-center space-x-2">
                                     <p class="text-xs">
-                                        <strong>#codewithstein</strong><br>
+                                        <strong>#vidhanpandey</strong><br>
                                         <span class="text-gray-500">180 posts</span>
                                     </p>
                                 </div>
@@ -173,7 +173,7 @@
                             <div class="flex items-center justify-between">
                                 <div class="flex items-center space-x-2">
                                     <p class="text-xs">
-                                        <strong>#codewithstein</strong><br>
+                                        <strong>#vidhanpandey</strong><br>
                                         <span class="text-gray-500">180 posts</span>
                                     </p>
                                 </div>
@@ -184,7 +184,7 @@
                             <div class="flex items-center justify-between">
                                 <div class="flex items-center space-x-2">
                                     <p class="text-xs">
-                                        <strong>#codewithstein</strong><br>
+                                        <strong>#vidhanpandey</strong><br>
                                         <span class="text-gray-500">180 posts</span>
                                     </p>
                                 </div>
@@ -195,7 +195,7 @@
                             <div class="flex items-center justify-between">
                                 <div class="flex items-center space-x-2">
                                     <p class="text-xs">
-                                        <strong>#codewithstein</strong><br>
+                                        <strong>#vidhanpandey</strong><br>
                                         <span class="text-gray-500">180 posts</span>
                                     </p>
                                 </div>
