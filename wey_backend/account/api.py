@@ -15,6 +15,8 @@ def signup(request):
         'password1': data.get('password1'),
         'password2': data.get('password2'),
     })
+    
+    #errors = form.errors.as_json()
 
     if form.is_valid():
         form.save()
@@ -22,5 +24,6 @@ def signup(request):
         #Send verification email later
     else:
         message = 'error'
-
-    return JsonResponse({'status':message})
+    
+    #return JsonResponse({'message':message,'errors':errors})
+    return JsonResponse({'message':message})
